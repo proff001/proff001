@@ -1,6 +1,6 @@
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=proff001&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=proff001&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **proff001/proff001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
